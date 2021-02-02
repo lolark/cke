@@ -1,3 +1,5 @@
+//pp006: Write a program to create an array of 10 integers, input the data and show all even numbers in given numbers.
+
 #include<stdio.h>
 int main()
 {
