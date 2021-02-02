@@ -1,3 +1,5 @@
+//pp005: Write a program to input two numbers and print all even numbers in given range.
+
 #include <stdio.h>
 int main() {
     int n1,n2,i;
